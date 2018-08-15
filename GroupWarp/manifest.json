@@ -1,0 +1,10 @@
+﻿{
+  "Name": "GroupWarp",
+  "Author": "phase858 (/u/phase858)",
+  "Version": "1.0.0",
+  "Description": "Lets you use the return scepter to warp everyone with right click.",
+  "UniqueID": "phase858.GroupWarp",
+  "EntryDll": "GroupWarp.dll",
+  "MinimumApiVersion": "2.6",
+  "UpdateKeys": [ "GitHub:phase858/SeaMonster" ]
+}
